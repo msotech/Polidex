@@ -6,9 +6,10 @@
 Este projeto foi construído como parte de um desafio técnico, com foco em boas práticas de desenvolvimento e experiência do usuário (UX).
 Ele foi desenvolvido para atender ao desafio técnico da Poli-Digital
 
----
+![Interface da Polidex](https://raw.githubusercontent.com/msotech/Polidex/main/src/assets/polidex.png)
 
-## **Funcionalidades**
+
+## 📋**Funcionalidades**
 
 ### **1. Listagem de Pokémons**
 - Lista até **150 Pokémons** consumidos diretamente da API **PokéAPI**.
@@ -37,7 +38,7 @@ Ele foi desenvolvido para atender ao desafio técnico da Poli-Digital
 
 ---
 
-## **Tecnologias Utilizadas**
+## 🛠️**Tecnologias Utilizadas**
 
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 - **PokéAPI**: API pública para consumir dados dos Pokémons.
@@ -62,5 +63,7 @@ Ele foi desenvolvido para atender ao desafio técnico da Poli-Digital
 
 5. **Experiência do Usuário (UX):**
    - A barra de pesquisa e a navegação via teclado/mouse foram implementadas para criar uma experiência acessível e eficiente.
+
+
 
 
