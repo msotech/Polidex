@@ -4,6 +4,7 @@
 **Polidex** é uma aplicação interativa desenvolvida com React, que utiliza a API pública **PokéAPI** para listar, buscar e explorar informações sobre Pokémons. O principal objetivo do projeto é criar uma interface intuitiva e responsiva, com funcionalidades que permitem navegar facilmente pela lista de Pokémons e visualizar detalhes como habilidades, tipos, e imagens, tudo em um layout amigável e acessível.
 
 Este projeto foi construído como parte de um desafio técnico, com foco em boas práticas de desenvolvimento e experiência do usuário (UX).
+Ele foi desenvolvido para atender ao desafio técnico da Poli-Digital
 
 ---
 
