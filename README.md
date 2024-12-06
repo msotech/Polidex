@@ -12,7 +12,7 @@ Ele foi desenvolvido para atender ao desafio técnico da Poli-Digital
 ## 📋**Funcionalidades**
 
 ### **1. Listagem de Pokémons**
-- Lista até **150 Pokémons** consumidos diretamente da API **PokéAPI**.
+- Lista até **151 Pokémons** consumidos diretamente da API **PokéAPI**.
 - Cada item exibe:
   - Nome do Pokémon.
   - Tipos representados por **badges coloridas** com cores específicas baseadas no tipo.
